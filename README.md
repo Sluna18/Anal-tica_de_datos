@@ -1,4 +1,6 @@
-#### Universidad Externado de Colombia | Facultad Administración de empresas                                         
+<img src= https://www.uexternado.edu.co/wp-content/uploads/2019/06/uexternado-entre-500-mejores.jpg width="500" height="300">
+
+#### Universidad Externado de Colombia | Facultad Administración de empresas                                                              
 #### Énfasis analítica de negocios y tecnología                                                
 
 ## ***Luna María Sierra Lombana***                                    
