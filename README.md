@@ -8,7 +8,7 @@
 
 :e-mail: luna.sierra@est.uexternado.edu.co 
 
-Estudiante de Administración de Empresas con énfasis en Analítica de Negocios y Mercadeo Digital, con experiencia en gestión comercial. Soy una persona proactiva, comprometida y responsable, con una fuerte orientación hacia la creatividad. *Este es mi primer paso en GitHub*, busco aprender y desarrollar habilidades técnicas mientras combino la tecnología con la gestión empresarial.
+Estudiante de Administración de Empresas con énfasis en Analítica de Negocios y Mercadeo Digital, con experiencia en gestión comercial. Soy una persona proactiva, comprometida y responsable, con una fuerte orientación hacia la creatividad. *Este es mi primer paso en GitHub*, y un acercamiento a herramientas de analítica de negocios como Power BI, SQL, Python, R. busco aprender y desarrollar habilidades técnicas mientras combino la tecnología con la gestión empresarial.
 
 #### **Lo que sigue...**
 * Añadir más ejemplos de código.
