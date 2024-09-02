@@ -4,7 +4,7 @@
 #### Énfasis analítica de negocios y tecnología                                                
 
 ## ***Luna María Sierra Lombana***                                    
-<img src= https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png width="20" height="20"> [Linkeind](www.linkedin.com/in/luna-maría-sierra-981109316)
+<img src= https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png width="20" height="20"> [Linkeind](https://www.linkedin.com/in/lunamar%C3%ADasierra/)
 
 :e-mail: luna.sierra@est.uexternado.edu.co 
 
