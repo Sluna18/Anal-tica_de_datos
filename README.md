@@ -13,7 +13,7 @@ Estudiante de Administración de Empresas con énfasis en Analítica de Negocios
 #### **Lo que sigue...**
 * Añadir más ejemplos de código.
 * Implementar una pequeña funcionalidad para trabajar con datos.
-* Practicar integración continua usando GitHub Actions.
+* Crear un proyecto
 
 
  <img src= https://miro.medium.com/v2/resize:fit:1400/1*biIy42Cn4Bnu0IkpUW1Zew.png width="250" height="220">
